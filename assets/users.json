@@ -1,0 +1,30 @@
+
+[
+  {
+    "username": "jake",
+    "email": "Malakas na pokemon",
+    "urlAvatar": "assets/pikachu.jpg"
+  },
+  {
+     "username": "venz",
+     "email": "makunat na pokemon",
+     "urlAvatar": "assets/pikachu-pop-star.png"
+  },
+  {
+    "username": "brian",
+    "email": "bading na pokemon",
+    "urlAvatar": "assets/pickachu-gigantamax-alt.jpg"
+  },
+  {
+    "username": "genesis",
+    "email": "pinakamalakas na pokemon",
+    "urlAvatar": "assets/pikachu-alt.jpg"
+  },
+  {
+    "username": "caccam",
+    "email": "malakas to na pokemon",
+    "urlAvatar": "assets/pikachu-alola-cap.jpg"
+  }
+
+
+]
